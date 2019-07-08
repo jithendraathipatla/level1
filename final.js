@@ -30,7 +30,7 @@ $(document).ready( () => {
           }
           catch(err){
             console.log(err);
-            location.href = "jj.html";
+            location.href = "final.html";
           }
         }
   }).catch((formReject)=> {
@@ -135,7 +135,6 @@ let sendDataToBack = (level1) => {
     var formData = new getFormData("#score-submit-form");
     let data = {
       "level1" : level1,
-      //"level2" : level2,
       "total_moves" : parseInt(level1.moves ),
       "total_time" : calculateTime(level1.time),
       "player" : formData
@@ -148,6 +147,7 @@ let sendDataToBack = (level1) => {
     data = JSON.stringify({"data" : data});
     getDataFromAjaxCall("https://cl8lkrnc16.execute-api.us-east-1.amazonaws.com/default/jb_memory_game_save_user_data_postgresql","post",data).then(
       (fromResolve) => {
+        
         //console.log(fromResolve);
         if(parseInt(fromResolve.rank) < 11){
           // $("#player-rank").html(fromResolve.rank);
