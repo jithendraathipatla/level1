@@ -1,0 +1,111 @@
+@font-face {
+    font-family: "myFirstFont";
+    src : url('Gotham-Font/Gotham-Bold.otf')
+  }
+table td{
+    text-align: center;
+    padding-top:7px;
+    padding-bottom: 7px;
+}
+.main {
+    margin-bottom: 20px;
+}
+
+.table-area{
+    width:50%;
+}
+
+.dataTables_wrapper .ui-toolbar {
+    background: black;
+    color:white;
+    border: none;
+    padding:10px 10px;
+}
+
+table {
+    color: white;
+}
+table.dataTable.display tbody tr.odd {
+    background-color: black;
+}
+
+table tr{
+    background-color: black;
+}
+table.dataTable.display tbody tr.odd>.sorting_1, table.dataTable.order-column.stripe tbody tr.odd>.sorting_1 {
+    background-color: #4D4E4F  ;
+}
+
+table.dataTable.display tbody tr.even>.sorting_1, table.dataTable.order-column.stripe tbody tr.even>.sorting_1 {
+    background-color: #4D4E4F  ;
+}
+table.dataTable.display tbody td.odd>.sorting_1, table.dataTable.order-column.stripe tbody td.odd>.sorting_1 {
+    background-color: transparent  ;
+}
+
+table td {
+    background-color: #4D4E4F  ;
+    padding:10px 10px;
+}
+
+h2{
+    color: white;
+    font-size: 35px;
+}
+
+table.dataTable.display thead tr th{
+    background-color: #262221;
+    color:white;
+}
+table.dataTable thead th, table.dataTable thead td {
+    padding: 19px 18px;
+    border:none;
+}
+table.dataTable.nowrap th, table.dataTable.nowrap td {
+    white-space: nowrap;
+    padding: 15px 20px;
+}
+table.dataTable.display tbody tr:first-child td {
+    border-top: none;
+}
+
+/* tbody tr:hover{
+    background-color: orange;
+}
+tbody td:hover{
+    background-color: #F7752B  ;
+} */
+
+inline.collapsed>tbody>tr[role="row"]>td:first-child:before, table.dataTable.dtr-inline.collapsed>tbody>tr[role="row"]>th:first-child:before {
+    top: 9px;
+    left: 4px;
+    height: 14px;
+    width: 14px;
+    display: block;
+    position: absolute;
+    color: white;
+    border: 2px solid white;
+    border-radius: 14px;
+    box-shadow: 0 0 3px #444;
+    box-sizing: content-box;
+    text-align: center;
+    text-indent: 0 !important;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 14px;
+    content: '+';
+    margin-top: 6px;
+    background-color: #31b131;
+}
+
+@media only screen and (max-width: 750px) {
+    .table-area{
+        width:95%;
+    }
+    .ui-corner-tr{
+        display: none;
+    }
+}
+
+/* fg-toolbar ui-toolbar ui-widget-header ui-helper-clearfix ui-corner-bl ui-corner-br
+
+fg-toolbar ui-toolbar ui-widget-header ui-helper-clearfix ui-corner-tl ui-corner-tr */

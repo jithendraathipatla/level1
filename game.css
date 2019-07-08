@@ -1,0 +1,214 @@
+@font-face {
+  font-family: "myFirstFont";
+  src : url('Gotham-Font/Gotham-Bold.otf')
+}
+
+body{
+  background-image: url('img/jb.jpg');
+  height:103vh;
+  font-family: 'myFirstFont';
+  overflow-y: hidden;
+}
+
+.game-title{
+  margin-top: 1%;
+  margin-bottom: -10%;
+  font-size: 38px;
+  color: white;
+}
+
+img{
+  width: 100%;
+ 
+}
+
+.move-time-score{
+  font-size: 40px;
+  color:white;
+}
+
+.heading {
+  font-size: 30px;
+  color: #ff6f00;
+}
+.container {
+  top: 100px;
+  height: 560px;
+  float: left;
+  left: 10%;
+}
+.container1 {
+  top: 100px;
+  height: 500px;
+  float: left;
+  left: 10%;
+}
+
+/* .two{
+  width: 30%;
+} */
+
+.level2 {
+  width:70%;
+}
+.card {
+  perspective: 1000px;
+  transition: transform 0.6s;
+  transform-style: preserve-3d;
+  -webkit-perspective: 1000px;
+  -webkit-transition: transform 0.6s;
+  -webkit-transform-style: preserve-3d;
+  padding:5px;
+  padding-top:10px;
+  background: black;
+  border: 1px solid #ffff;
+  -webkit-border : 1px solid #ffff;
+}
+.column.is-3 {
+  margin:-8px;
+}
+.column.is-2 {
+  margin:-8px;
+}
+
+.rotate{
+  -webkit-transform : rotateY(180deg);
+  transform : rotateY(180deg);
+}
+
+.score{
+  margin-bottom: 10%;
+}
+.message{
+  font-size: 18px;
+  background: transparent;
+}
+.first{
+  margin-top:2%;
+}
+
+#game-rule {
+  margin-top : 0%;
+}
+
+.rules-steps li{
+  color: #ff6f00;
+}
+.rules-steps li p{
+  color: #ffffff;
+}
+
+.rules-steps li p font{
+  color: black;
+}
+
+.rules-card-body {
+  padding: 0px 50px;
+}
+.submit-button{
+  font-size: 36px;
+  border-top-right-radius: 34px;
+  border-bottom-right-radius: 34px;
+  padding: 0px 30px;
+  cursor: pointer;
+  height: 72px;
+  color:white;
+  cursor:pointer;
+  background-image: linear-gradient(to right top, #4471b4, #345c97, #25487a, #15345f, #052245);
+  border:none;
+  margin-left: 6px;
+  transition: -webkit-box-shadow .4s ease-in-out;
+   -webkit-transition: -webkit-box-shadow .5s ease-in-out;
+}
+button {
+  cursor:pointer;
+}
+/* .submit-button:active{
+  margin-top: 2px;
+  box-shadow: 0px 0px #888888;
+} */
+.play{
+  font-weight: 500;
+}
+
+.modal-card{
+  top:30%;
+  font-size: 2vw;
+}
+.close-error{
+  cursor:pointer;
+}
+#hide{
+  background: transparent;
+   padding: 5px;
+  border-radius: 5px; 
+  margin-top: 10px;
+   margin-left: 212px;
+}
+.modal-card-title {
+  color: #363636;
+  -webkit-box-flex: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  font-size: 1.5rem;
+  line-height: 1;
+  font-size: 44px;
+}
+@media only screen and (max-width: 600px) {
+  .container two{
+    text-align: center;
+    width: 90%;
+    margin-top: -468px;
+    margin-left: -10px;
+    height: 16px;
+    margin-bottom: -48px;
+  }
+  .move-time-score .mobileProper {
+    text-align: justify;
+    padding: 0px 125px;
+    font-size: xx-large;
+    margin-top: -200px;
+    margin-bottom: -13px;
+  }
+  .container{
+    top: 222px;
+    height: 600px;
+    float: left;
+    left: 10%;
+    margin-bottom: 30px;
+  }
+  .container1 {
+    text-align: center;
+    width: 100%;
+    color: white;
+    position: inherit;
+    margin-top: -255px;
+   }
+   #scroe-time-area{
+     margin-bottom:50px;
+   }
+}
+@media only screen and (max-device-width: 480px), only screen and (min-device-width: 560px) and (max-device-width: 1136px) and (-webkit-min-device-pixel-ratio: 2) {
+  #hide{
+    text-align: center;
+    margin-left: 198px;
+  }
+}
+@media only screen and (min-device-width: 320px) and (max-device-width: 568px)
+and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71) and (orientation:portrait)
+{
+  .adjustSocial{
+    text-align: center;
+    margin-left: -37px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .message {
+    font-size: 18px;
+    margin-top: 57px;
+}
+
+}
+
