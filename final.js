@@ -111,7 +111,7 @@ function validateForms(){
       "moves" : _levelFirst.moves
     };console.log(level1);
       sendDataToBack(level1).then( (fromResolve)=> {
-        console.log(fromResolve);
+       // console.log(fromResolve);
       }).catch( (formReject) =>{
         location.href = "";
       });
@@ -140,7 +140,6 @@ let sendDataToBack = (level1) => {
       "player" : formData
     }
     data = JSON.stringify(data);
-    console.log(data);
     $(".score-button").html("<i class=\"fa fa-spinner fa-spin\"></i>");
     localStorage.setItem("_tgdagpr",jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data));
     data = jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data);
