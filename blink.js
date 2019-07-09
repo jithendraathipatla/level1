@@ -43,9 +43,3 @@ const twt = "img/twitter_PNG9.png";
         resolve(1)
     });
 });
-
-var myTable = $('#myTable').DataTable();
- 
-myTable.row( ':eq(0)' ).delete( {
-    title: 'Delete first row'
-} );
