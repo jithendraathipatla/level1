@@ -1,0 +1,897 @@
+{ "data" : [
+    {
+      "user_name": "Vikas Malik",
+      "total_time": "00:31:0",
+      "total_moves": 20,
+      "twitter": "_vikasM"
+    },
+    {
+      "user_name": "Saikat",
+      "total_time": "00:33:91",
+      "total_moves": 31,
+      "twitter": null
+    },
+    {
+      "user_name": "Thibaud Courtoison",
+      "total_time": "00:39:0",
+      "total_moves": 27,
+      "twitter": null
+    },
+    {
+      "user_name": "Manish Sarin",
+      "total_time": "00:55:10",
+      "total_moves": 33,
+      "twitter": "MANISHSARIN1"
+    },
+    {
+      "user_name": "Errorname",
+      "total_time": "01:01:51",
+      "total_moves": 37,
+      "twitter": null
+    },
+    {
+      "user_name": "Vivek",
+      "total_time": "01:02:37",
+      "total_moves": 32,
+      "twitter": "VivekKu81707100"
+    },
+    {
+      "user_name": "Sarkar, Indraneel",
+      "total_time": "01:03:11",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "dharmendra",
+      "total_time": "01:04:12",
+      "total_moves": 35,
+      "twitter": "@dharam"
+    },
+    {
+      "user_name": "Narmadha",
+      "total_time": "01:06:20",
+      "total_moves": 29,
+      "twitter": null
+    },
+    {
+      "user_name": "Vibhash Kumar",
+      "total_time": "01:06:19",
+      "total_moves": 31,
+      "twitter": "@vibi13"
+    },
+    {
+      "user_name": "Hari",
+      "total_time": "01:06:20",
+      "total_moves": 32,
+      "twitter": "g_harikiran"
+    },
+    {
+      "user_name": "Sai",
+      "total_time": "01:06:45",
+      "total_moves": 31,
+      "twitter": "@lean_programmer"
+    },
+    {
+      "user_name": "Vasanth Kumar E",
+      "total_time": "01:06:56",
+      "total_moves": 28,
+      "twitter": null
+    },
+    {
+      "user_name": "Sri Harsha",
+      "total_time": "01:06:59",
+      "total_moves": 37,
+      "twitter": null
+    },
+    {
+      "user_name": "manju",
+      "total_time": "01:07:54",
+      "total_moves": 37,
+      "twitter": "manjuvm"
+    },
+    {
+      "user_name": "Saurabh",
+      "total_time": "01:08:30",
+      "total_moves": 38,
+      "twitter": "@SaurabhSandav"
+    },
+    {
+      "user_name": "Sanjay ",
+      "total_time": "01:08:50",
+      "total_moves": 32,
+      "twitter": null
+    },
+    {
+      "user_name": "Rohan Sharad Pagare",
+      "total_time": "01:08:51",
+      "total_moves": 32,
+      "twitter": "@rohannarcos"
+    },
+    {
+      "user_name": "Ankita Jaiswal",
+      "total_time": "01:09:79",
+      "total_moves": 34,
+      "twitter": "ankita03jais@gmail.com"
+    },
+    {
+      "user_name": "Manimegala S",
+      "total_time": "01:10:65",
+      "total_moves": 27,
+      "twitter": "@"
+    },
+    {
+      "user_name": "evk",
+      "total_time": "01:11:12",
+      "total_moves": 28,
+      "twitter": null
+    },
+    {
+      "user_name": "Srushith",
+      "total_time": "01:11:20",
+      "total_moves": 40,
+      "twitter": "SrushithR"
+    },
+    {
+      "user_name": "Paras",
+      "total_time": "01:13:80",
+      "total_moves": 34,
+      "twitter": null
+    },
+    {
+      "user_name": "Thalaiva",
+      "total_time": "01:13:19",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Amin Ali",
+      "total_time": "01:13:52",
+      "total_moves": 41,
+      "twitter": "@aminali"
+    },
+    {
+      "user_name": "Dhruv Odedra",
+      "total_time": "01:17:50",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Navein",
+      "total_time": "01:17:80",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "Neo",
+      "total_time": "01:18:26",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "indraneil",
+      "total_time": "01:19:81",
+      "total_moves": 44,
+      "twitter": null
+    },
+    {
+      "user_name": "chethan",
+      "total_time": "01:20:54",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Pritish Pagare",
+      "total_time": "01:20:88",
+      "total_moves": 31,
+      "twitter": "@coolpritish98"
+    },
+    {
+      "user_name": "BARANITHARAN K C",
+      "total_time": "01:21:70",
+      "total_moves": 36,
+      "twitter": "@baranikc"
+    },
+    {
+      "user_name": "Suraj Kumar Singh",
+      "total_time": "01:21:28",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "PRARABDH TIWARI ",
+      "total_time": "01:21:38",
+      "total_moves": 30,
+      "twitter": "PRARABDH1993"
+    },
+    {
+      "user_name": "Srish Maurya",
+      "total_time": "01:21:50",
+      "total_moves": 38,
+      "twitter": null
+    },
+    {
+      "user_name": "Nikunj amin",
+      "total_time": "01:21:95",
+      "total_moves": 32,
+      "twitter": null
+    },
+    {
+      "user_name": "Ayush Chauhan ",
+      "total_time": "01:22:20",
+      "total_moves": 45,
+      "twitter": "@heyayushh "
+    },
+    {
+      "user_name": "Sheeba Khan",
+      "total_time": "01:23:41",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "Shivam Arora",
+      "total_time": "01:23:82",
+      "total_moves": 31,
+      "twitter": null
+    },
+    {
+      "user_name": "Rilikta",
+      "total_time": "01:24:27",
+      "total_moves": 41,
+      "twitter": "@rilikta"
+    },
+    {
+      "user_name": "lavanya",
+      "total_time": "01:26:32",
+      "total_moves": 38,
+      "twitter": null
+    },
+    {
+      "user_name": "Revathi Kannan",
+      "total_time": "01:26:68",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Nilesh jain",
+      "total_time": "01:26:91",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Sheeba",
+      "total_time": "01:27:50",
+      "total_moves": 37,
+      "twitter": "@sheebakausar"
+    },
+    {
+      "user_name": "Mohammad Faisal",
+      "total_time": "01:27:47",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Gozo",
+      "total_time": "01:27:58",
+      "total_moves": 41,
+      "twitter": null
+    },
+    {
+      "user_name": "Mallikarjun k",
+      "total_time": "01:28:43",
+      "total_moves": 33,
+      "twitter": null
+    },
+    {
+      "user_name": "Akhilesh Dubey",
+      "total_time": "01:28:48",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "Boby",
+      "total_time": "01:29:69",
+      "total_moves": 36,
+      "twitter": "@sheebakausar"
+    },
+    {
+      "user_name": "Rithin Jose",
+      "total_time": "01:30:74",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "Deepak Chandrashekar",
+      "total_time": "01:31:70",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "Zaky",
+      "total_time": "01:31:13",
+      "total_moves": 39,
+      "twitter": "@zakyahmed"
+    },
+    {
+      "user_name": "Ishanthsriram C B",
+      "total_time": "01:31:25",
+      "total_moves": 50,
+      "twitter": null
+    },
+    {
+      "user_name": "sark_01",
+      "total_time": "01:31:59",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Sasikanth Miriyampalli",
+      "total_time": "01:31:76",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Venugopal gaonkar",
+      "total_time": "01:32:30",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "k pradeep kumar reddy",
+      "total_time": "01:33:17",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Bastian Hornei",
+      "total_time": "01:33:46",
+      "total_moves": 41,
+      "twitter": null
+    },
+    {
+      "user_name": "PIYUSH Kumar",
+      "total_time": "01:33:72",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Name Swati",
+      "total_time": "01:34:31",
+      "total_moves": 37,
+      "twitter": null
+    },
+    {
+      "user_name": "Jacob Foley",
+      "total_time": "01:35:31",
+      "total_moves": 41,
+      "twitter": null
+    },
+    {
+      "user_name": "Manimegala S",
+      "total_time": "01:36:45",
+      "total_moves": 28,
+      "twitter": null
+    },
+    {
+      "user_name": "Gaurav Sukhatme",
+      "total_time": "01:37:19",
+      "total_moves": 47,
+      "twitter": null
+    },
+    {
+      "user_name": "Javed",
+      "total_time": "01:38:99",
+      "total_moves": 44,
+      "twitter": null
+    },
+    {
+      "user_name": "Ashok",
+      "total_time": "01:39:27",
+      "total_moves": 33,
+      "twitter": null
+    },
+    {
+      "user_name": "Tavish Jain",
+      "total_time": "01:39:47",
+      "total_moves": 34,
+      "twitter": null
+    },
+    {
+      "user_name": "Gautam",
+      "total_time": "01:39:66",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "Heena",
+      "total_time": "01:40:0",
+      "total_moves": 41,
+      "twitter": "rttyt"
+    },
+    {
+      "user_name": "Frederico Garcia",
+      "total_time": "01:41:80",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Arpit Sharma",
+      "total_time": "01:41:36",
+      "total_moves": 34,
+      "twitter": null
+    },
+    {
+      "user_name": "Suraj Singh",
+      "total_time": "01:41:78",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Sanjay J",
+      "total_time": "01:41:98",
+      "total_moves": 50,
+      "twitter": null
+    },
+    {
+      "user_name": "Sheela Laxman",
+      "total_time": "01:42:40",
+      "total_moves": 33,
+      "twitter": null
+    },
+    {
+      "user_name": "Abcd",
+      "total_time": "01:43:48",
+      "total_moves": 53,
+      "twitter": null
+    },
+    {
+      "user_name": "Jackie",
+      "total_time": "01:44:25",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Srishti",
+      "total_time": "01:44:69",
+      "total_moves": 51,
+      "twitter": null
+    },
+    {
+      "user_name": "Satish",
+      "total_time": "01:44:84",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Sayan",
+      "total_time": "01:46:15",
+      "total_moves": 37,
+      "twitter": null
+    },
+    {
+      "user_name": "Jignesh",
+      "total_time": "01:47:61",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Sheeba",
+      "total_time": "01:48:50",
+      "total_moves": 42,
+      "twitter": "@sheebakausar"
+    },
+    {
+      "user_name": "Naveen",
+      "total_time": "01:48:79",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "test",
+      "total_time": "01:48:98",
+      "total_moves": 44,
+      "twitter": null
+    },
+    {
+      "user_name": "heartin",
+      "total_time": "01:50:15",
+      "total_moves": 46,
+      "twitter": null
+    },
+    {
+      "user_name": "Pankaj Rai",
+      "total_time": "01:51:30",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Kundan",
+      "total_time": "01:51:55",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Shaikh obaid ",
+      "total_time": "01:53:26",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Rohan Maity",
+      "total_time": "01:54:40",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Trivikrama H",
+      "total_time": "01:54:59",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "Nitin Pamnani",
+      "total_time": "01:54:59",
+      "total_moves": 58,
+      "twitter": null
+    },
+    {
+      "user_name": "karthik",
+      "total_time": "01:54:88",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Joanna",
+      "total_time": "01:55:58",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Tirtha",
+      "total_time": "01:55:68",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "venkatesh",
+      "total_time": "01:55:88",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Mayur Madnani",
+      "total_time": "01:56:60",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "Surajeet Sen",
+      "total_time": "01:56:56",
+      "total_moves": 28,
+      "twitter": null
+    },
+    {
+      "user_name": "Pooja",
+      "total_time": "01:57:20",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "909",
+      "total_time": "01:57:87",
+      "total_moves": 37,
+      "twitter": null
+    },
+    {
+      "user_name": "vivek panchal",
+      "total_time": "01:59:13",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "rajesh",
+      "total_time": "01:59:80",
+      "total_moves": 38,
+      "twitter": null
+    },
+    {
+      "user_name": "test",
+      "total_time": "02:00:20",
+      "total_moves": 92,
+      "twitter": null
+    },
+    {
+      "user_name": "Sudhanshu V",
+      "total_time": "02:01:30",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Chandra Sekhar Nayak",
+      "total_time": "02:01:48",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "Srishti Maurya",
+      "total_time": "02:01:62",
+      "total_moves": 36,
+      "twitter": null
+    },
+    {
+      "user_name": "Nilesh jain",
+      "total_time": "02:02:34",
+      "total_moves": 50,
+      "twitter": null
+    },
+    {
+      "user_name": "Aditi",
+      "total_time": "02:03:43",
+      "total_moves": 60,
+      "twitter": null
+    },
+    {
+      "user_name": "Sumanth Badadal",
+      "total_time": "02:03:62",
+      "total_moves": 46,
+      "twitter": null
+    },
+    {
+      "user_name": "48moves",
+      "total_time": "02:03:75",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "The Dev Pal",
+      "total_time": "02:04:61",
+      "total_moves": 46,
+      "twitter": "no id it is optional"
+    },
+    {
+      "user_name": "udhayakumar",
+      "total_time": "02:05:89",
+      "total_moves": 39,
+      "twitter": null
+    },
+    {
+      "user_name": "Paramvir Singh Karwal",
+      "total_time": "02:06:60",
+      "total_moves": 30,
+      "twitter": null
+    },
+    {
+      "user_name": "kaki",
+      "total_time": "02:06:77",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Giridhara.B",
+      "total_time": "02:07:30",
+      "total_moves": 47,
+      "twitter": null
+    },
+    {
+      "user_name": "Sachin Thakur",
+      "total_time": "02:07:99",
+      "total_moves": 42,
+      "twitter": "thakursachin467"
+    },
+    {
+      "user_name": "Sudo",
+      "total_time": "02:11:83",
+      "total_moves": 56,
+      "twitter": null
+    },
+    {
+      "user_name": "Debajyoti Basak",
+      "total_time": "02:12:40",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Anju Bansal ",
+      "total_time": "02:13:58",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Adit Lal",
+      "total_time": "02:15:30",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Pavan",
+      "total_time": "02:15:42",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Sachin",
+      "total_time": "02:16:40",
+      "total_moves": 47,
+      "twitter": null
+    },
+    {
+      "user_name": "Vinay",
+      "total_time": "02:16:72",
+      "total_moves": 49,
+      "twitter": null
+    },
+    {
+      "user_name": "Soham Taneja",
+      "total_time": "02:17:20",
+      "total_moves": 31,
+      "twitter": null
+    },
+    {
+      "user_name": "Mallikarjun",
+      "total_time": "02:17:15",
+      "total_moves": 40,
+      "twitter": null
+    },
+    {
+      "user_name": "Rithin Jose",
+      "total_time": "02:17:32",
+      "total_moves": 52,
+      "twitter": null
+    },
+    {
+      "user_name": "Wojtek",
+      "total_time": "02:18:62",
+      "total_moves": 30,
+      "twitter": null
+    },
+    {
+      "user_name": "Sai",
+      "total_time": "02:19:50",
+      "total_moves": 41,
+      "twitter": null
+    },
+    {
+      "user_name": "jjj",
+      "total_time": "02:19:76",
+      "total_moves": 45,
+      "twitter": null
+    },
+    {
+      "user_name": "Shubham mukkawar",
+      "total_time": "02:21:68",
+      "total_moves": 53,
+      "twitter": null
+    },
+    {
+      "user_name": "Shobhit Garg",
+      "total_time": "02:21:75",
+      "total_moves": 27,
+      "twitter": null
+    },
+    {
+      "user_name": "Veeresh",
+      "total_time": "02:21:91",
+      "total_moves": 51,
+      "twitter": null
+    },
+    {
+      "user_name": "nishant mittal",
+      "total_time": "02:23:63",
+      "total_moves": 44,
+      "twitter": null
+    },
+    {
+      "user_name": "Jay Patel",
+      "total_time": "02:27:75",
+      "total_moves": 51,
+      "twitter": null
+    },
+    {
+      "user_name": "Gagandeep Singh",
+      "total_time": "02:37:19",
+      "total_moves": 35,
+      "twitter": null
+    },
+    {
+      "user_name": "Debabrata Karfa",
+      "total_time": "02:39:20",
+      "total_moves": 53,
+      "twitter": "imdkarfa"
+    },
+    {
+      "user_name": "Srivatsa Haridas",
+      "total_time": "02:44:50",
+      "total_moves": 74,
+      "twitter": null
+    },
+    {
+      "user_name": "Sanjeet Kumar",
+      "total_time": "02:48:60",
+      "total_moves": 28,
+      "twitter": null
+    },
+    {
+      "user_name": "abu khan",
+      "total_time": "02:48:67",
+      "total_moves": 43,
+      "twitter": null
+    },
+    {
+      "user_name": "Praveen",
+      "total_time": "02:52:10",
+      "total_moves": 42,
+      "twitter": null
+    },
+    {
+      "user_name": "Bella Sophia",
+      "total_time": "02:53:78",
+      "total_moves": 56,
+      "twitter": null
+    },
+    {
+      "user_name": "Himanshi",
+      "total_time": "03:01:44",
+      "total_moves": 47,
+      "twitter": null
+    },
+    {
+      "user_name": "Vv",
+      "total_time": "03:05:70",
+      "total_moves": 60,
+      "twitter": null
+    },
+    {
+      "user_name": "Magesh444444444444444444444444444444444444444444444444e44 and 44444 and 44444444444444444444444 and and",
+      "total_time": "03:12:90",
+      "total_moves": 58,
+      "twitter": null
+    },
+    {
+      "user_name": "Ramesh Kumar",
+      "total_time": "03:19:39",
+      "total_moves": 63,
+      "twitter": "pcrkc7891"
+    },
+    {
+      "user_name": "Ankit Balyan",
+      "total_time": "03:20:20",
+      "total_moves": 42,
+      "twitter": "ankibalyan"
+    },
+    {
+      "user_name": "SAIKAT Ghosh",
+      "total_time": "03:21:60",
+      "total_moves": 30,
+      "twitter": null
+    },
+    {
+      "user_name": "abu",
+      "total_time": "03:36:85",
+      "total_moves": 48,
+      "twitter": null
+    },
+    {
+      "user_name": "Pramod Bharti ",
+      "total_time": "03:49:22",
+      "total_moves": 81,
+      "twitter": null
+    },
+    {
+      "user_name": "Abu Osama ",
+      "total_time": "03:49:35",
+      "total_moves": 51,
+      "twitter": null
+    },
+    {
+      "user_name": "Avinash Mishra",
+      "total_time": "04:08:30",
+      "total_moves": 76,
+      "twitter": null
+    },
+    {
+      "user_name": "Anishkumar",
+      "total_time": "04:53:31",
+      "total_moves": 52,
+      "twitter": null
+    }
+  ]
+}

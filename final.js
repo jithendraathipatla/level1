@@ -144,7 +144,7 @@ let sendDataToBack = (level1) => {
     localStorage.setItem("_tgdagpr",jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data));
     data = jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data);
     data = JSON.stringify({"data" : data});
-    getDataFromAjaxCall("https://cl8lkrnc16.execute-api.us-east-1.amazonaws.com/default/jb_memory_game_save_user_data_postgresql","post",data).then(
+    getDataFromAjaxCall("config.json","post",data).then(
       (fromResolve) => {
         
         //console.log(fromResolve);
@@ -193,7 +193,7 @@ function tweetOnTwitter() {
   _twitterDataForApi = JSON.stringify(_prevData);
   data = jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(_twitterDataForApi);
   data = JSON.stringify({"data" : data});
-  getDataFromAjaxCall("https://cl8lkrnc16.execute-api.us-east-1.amazonaws.com/default/jb_memory_game_save_user_data_postgresql", "post", data)
+  getDataFromAjaxCall("confg.json", "post", data)
   .then( (fromResolve)=> {
     location.href = "leaderboard.html";
   }).catch((fromReject)=> {

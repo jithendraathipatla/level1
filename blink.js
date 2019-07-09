@@ -1,7 +1,7 @@
 $(document).ready(function() {
-    getDataFromAjaxCall("https://cl8lkrnc16.execute-api.us-east-1.amazonaws.com/default/jb_memory_game_leaderboard_postgresql", "get", 0)
+    getDataFromAjaxCall("config.json", "get", 0)
         .then( (fromResolve) => {
-           
+           fromResolve = fromResolve.data
             storeDataIntoTable(fromResolve).then( (fromResolve)=> {
                 $("#example").dataTable();
             })
@@ -44,4 +44,8 @@ const twt = "img/twitter_PNG9.png";
     });
 });
 
-
+var myTable = $('#myTable').DataTable();
+ 
+myTable.row( ':eq(0)' ).delete( {
+    title: 'Delete first row'
+} );

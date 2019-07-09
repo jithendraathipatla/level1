@@ -2,7 +2,7 @@ $(document).ready(function(){
     var filterData=[];
     $.ajax({
           type: "GET",
-          url: "https://92ebfj3ks5.execute-api.us-east-1.amazonaws.com/quiz/build_leaderboard",
+          url: "config.json",
           dataType: "json",
           success: function (data) {
                 for(i=0;i<data.length;i++)
