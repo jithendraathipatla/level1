@@ -140,7 +140,7 @@ let sendDataToBack = (level1) => {
       "player" : formData
     }
     data = JSON.stringify(data);
-
+    console.log(data);
     $(".score-button").html("<i class=\"fa fa-spinner fa-spin\"></i>");
     localStorage.setItem("_tgdagpr",jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data));
     data = jdcadsbyfbewuyfbhdjbsuhjdsfdfdfoixnjzxcoidwe(data);
