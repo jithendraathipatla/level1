@@ -338,8 +338,8 @@ var _scoreTimeLevel = "<div class=\"col-md-4 first\">\n" +
     "            <div class=\"move-time-score\" id=\"viewTime\" style=\"margin-top:-18px;margin-bottom: 18px\">00:00</div>\n" +
     "        </div>\n" +
     "        <div class=\"col-md-4 second\">\n" +
-    "            <div class=\"move-time-score heading\">Level</div>\n" +
-    "            <div class=\"move-time-score\" style=\"margin-top:-18px;margin-bottom: 18px\" >1/2</div>\n" +
+    // "            <div class=\"move-time-score heading\">Level</div>\n" +
+    // "            <div class=\"move-time-score\" style=\"margin-top:-18px;margin-bottom: 18px\" >1/2</div>\n" +
     "        </div>\n" +
     "        <div class=\"col-md-4 third\">\n" +
     "            <div class=\"move-time-score heading\">Moves</div>\n" +
